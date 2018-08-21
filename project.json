@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "sports-slider"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2018/sports/ryan-seahawks"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "http://projects.seattletimes.com/2018/sports/ryan-seahawks/",
+  "slug": "",
+  "tags": ["interactive", "parallax"],
+  "image": "",
+  "production": false,
+  "sheets": ["1E6WayzTLQVdiDBYYwSrO81PFMJCo6ozfmXu3y92tvjU"]
+}
