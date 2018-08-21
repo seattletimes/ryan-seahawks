@@ -1,5 +1,9 @@
 require("./lib/ads");
 
+var paywall = require("./lib/paywall");
+
+setTimeout(() => paywall(10980017), 5000);
+
 
 var Share = require("share");
 
